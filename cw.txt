@@ -1,1 +1,3 @@
 edited new branch branch
+
+Conflict 2
